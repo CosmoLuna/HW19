@@ -1,6 +1,8 @@
 #include <iostream>
 #include <time.h>
 #include <algorithm>
+#include <stdlib.h>
+
 using namespace std;
 
 // Вывод массива
